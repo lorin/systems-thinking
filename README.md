@@ -2,6 +2,11 @@
 
 Some notes on the different types of systems thinking.
 
+“In systems thinking, increases in understanding are believed to be obtainable
+by expanding the systems to be understood, not by reducing them to their
+elements.” Russell L. Ackoff (quoted by [Steven
+Shorrock](https://humanisticsystems.com/2019/11/25/four-kinds-of-thinking-2-systems-thinking/)
+
 ## Schools
 
 ### Signals and systems (EE)
