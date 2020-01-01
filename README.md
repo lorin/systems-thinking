@@ -33,12 +33,14 @@ Gall
 
 * Russell L. Ackoff
 * W. Ross Ashby
+* Ludwig von Bertalanffy
+* Stafford Beer
 * W. Edward Deming
 * John Gall
 * Peter Senge
 * Norbert Wiener
 * Donella Meadows
-* Ludwig von Bertalanffy
+* Virginia Satir
 * Gerald M. Weinberg
 
 ## Other links
