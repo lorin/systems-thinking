@@ -45,10 +45,10 @@ Gall
 
 ### Russell L. Ackoff
 
-#### The Future of Operational Research is Past
-J. Opl Res. Soc. Vol. 30, 2, pp 93-104, 1979
+#### [The Future of Operational Research is Past](https://ackoffcenter.blogs.com/files/the-future-of-operational-research-is-past.pdf)
+The Journal of the Operational Research Society, Vol. 30, No. 2 (Feb., 1979), pp. 93-104
 
-This paper is a criticism of the state of operations research. This is the paper whewre Ackoff introduces the term *messes*:
+This paper is a criticism of the state of operations research. Notably, this is where Ackoff introduces his idea of *messes*:
 
 > Managers are not confronted with problems that are independent of each other, but with dynamic situations that consist of complex systems of changing problems that interact with each other. I call such situations messes.
 
