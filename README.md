@@ -84,6 +84,11 @@ Nature and the world are not organized as science and universities are. There ar
 Progress in handling messes, as well as problems, derives at least as mmuch from creative reorganization of the way we pursue knowledge and the knowledge we already have as it does from new discoveries.
 
 
+### W. Ross Ashby
+
+#### [An introduction to cybernetics](http://documents.irevues.inist.fr/bitstream/handle/2042/30159/XX_CNE-LIPSOR_000704.pdf?sequence=1**
+
+This book introduces Ashby's *law of requisite variety*.
 
 ## Other links
 
