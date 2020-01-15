@@ -29,6 +29,10 @@ Weinberg
 
 Gall
 
+### System dynamics
+
+Forrester
+
 ## People
 
 * Russell L. Ackoff
@@ -36,6 +40,7 @@ Gall
 * Ludwig von Bertalanffy
 * Stafford Beer
 * W. Edward Deming
+* Jay Wright Forrester
 * John Gall
 * Peter Senge
 * Norbert Wiener
