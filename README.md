@@ -11,7 +11,7 @@ Shorrock](https://humanisticsystems.com/2019/11/25/four-kinds-of-thinking-2-syst
 
 ### Signals and systems (EE)
 
-Traditional control theory
+Traditional control and communications theory
 
 ### Cybernetics
 
