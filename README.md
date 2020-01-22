@@ -17,12 +17,30 @@ back to a course they took called *signals and systems*.
 In this terminology, a *signal* is a function of time and a *system* is a black
 box that takes a signal as input and produces a signal as output.
 
-![System](system.png)_
+![System](system.png)
 
+A system, denoted *H*, which takes a signal x(t) as input and produces a signal y(t) as output.
 
+Concepts in a signals and systems course constitute foundational mathematical tools for
+communications theory and control theory. Communications engineers talk about
+communicating over *channels*, and control engineers talk about controlling
+*plants*: both channels and plants are modeled as systems.
 
+Linear time-invariant (LTI) systems are an important class of systems, because such systems
+can characterized entirely by what is called an *impulse response*: which is the output
+when the input is a special signal called an impulse. LTI systems are also amenable to analysis
+using mathematical tools called transforms (including Fourier, Laplace, and Z transforms).
 
-Terms: transfer function, impulse response, frequency response, BIBO stability
+Of particular interest to students of systems thinking, there are various mathematical tools
+for studying feedback and stability of systems. These Include root locus plots, the Nyquist stability
+criterion, and gain/phase margin using Bode plots.
+
+Notably: Claude Shannon, Harry Nyquist, and Hendrik Wade Bode all worked at Bell Labs.
+
+Terms: linear time-invariant (LTI), transfer function, impulse response,
+frequency response, magnitude response, phase response, bounded input bounded
+output (BIBO) stability, Fourier transform, Laplace transform, Z transform, poles, zeros,
+root-locus plot, Bode plot, Nyquist stability criterion, gain margin, phase margin
 
 
 ### Cybernetics
