@@ -11,7 +11,19 @@ Shorrock](https://humanisticsystems.com/2019/11/25/four-kinds-of-thinking-2-syst
 
 ### Signals and systems (EE)
 
-Traditional control and communications theory
+If you say *systems* to an electrical engineering major, they will likely think
+back to a course they took called *signals and systems*.
+
+In this terminology, a *signal* is a function of time and a *system* is a black
+box that takes a signal as input and produces a signal as output.
+
+![System](system.png)_
+
+
+
+
+Terms: transfer function, impulse response, frequency response, BIBO stability
+
 
 ### Cybernetics
 
