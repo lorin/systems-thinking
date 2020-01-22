@@ -37,10 +37,16 @@ criterion, and gain/phase margin using Bode plots.
 
 Notably: Claude Shannon, Harry Nyquist, and Hendrik Wade Bode all worked at Bell Labs.
 
-Terms: linear time-invariant (LTI), transfer function, impulse response,
+### Terms
+
+signals, systems, linear time-invariant (LTI), transfer function, impulse response,
 frequency response, magnitude response, phase response, bounded input bounded
 output (BIBO) stability, Fourier transform, Laplace transform, Z transform, poles, zeros,
 root-locus plot, Bode plot, Nyquist stability criterion, gain margin, phase margin
+
+#### References
+
+* [Signals and Systems](https://www.amazon.com/Signals-Systems-2nd-Alan-Oppenheim/dp/0138147574/) by Oppenheim and Willsky
 
 
 ### Cybernetics
