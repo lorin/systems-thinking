@@ -51,11 +51,42 @@ root-locus plot, Bode plot, Nyquist stability criterion, gain margin, phase marg
 
 ### Cybernetics
 
-Wiener
+Norbert Wiener
+
+#### References
+
+* [Cybernetics: Or Control and Communication in the Animal and the Machine](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine) by Norbert Wiener
+* [Introduction to Cybernetics](http://pespmc1.vub.ac.be/ASHBBOOK.html) by W. Ross Ashby
+
 
 ### Stocks and flows 
 
-Meadows
+Donella Meadows
+
+
+#### Places to intervene in a systems
+
+In increasing order of effectiveness:
+
+12. Constants, parameters, numbers (such as subsidies, taxes, standards).
+11. The sizes of buffers and other stabilizing stocks, relative to their flows.
+10. The structure of material stocks and flows (such as transport networks, population age structures).
+9. The lengths of delays, relative to the rate of system change.
+8. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+7. The gain around driving positive feedback loops.
+6. The structure of information flows (who does and does not have access to information).
+5. The rules of the system (such as incentives, punishments, constraints).
+4. The power to add, change, evolve, or self-organize system structure.
+3. The goals of the system.
+2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
+1. The power to transcend paradigms.
+
+
+
+#### References
+
+* [Leverage Points: Places to Intervene in a System](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) by Donella Meadows
+* [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella Meadows
 
 ### State-based
 
