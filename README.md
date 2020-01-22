@@ -19,7 +19,7 @@ box that takes a signal as input and produces a signal as output.
 
 ![System](system.png)
 
-A system, denoted *H*, which takes a signal x(t) as input and produces a signal y(t) as output.
+A system, denoted *H*, which takes a signal, x(t), as input and produces a signal, y(t), as output.
 
 Concepts in a signals and systems course constitute foundational mathematical tools for
 communications theory and control theory. Communications engineers talk about
