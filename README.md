@@ -19,7 +19,9 @@ box that takes a signal as input and produces a signal as output.
 
 ![System](system.png)
 
-A system, denoted *H*, which takes a signal, x(t), as input and produces a signal, y(t), as output.
+A system, denoted *H*, which takes a signal, x(t), as input and produces a
+signal, y(t), as output. *H* is sometimes referred to as the *transfer
+function*.
 
 Concepts in a signals and systems course constitute foundational mathematical tools for
 communications theory and control theory. Communications engineers talk about
@@ -81,6 +83,10 @@ In increasing order of effectiveness:
 2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
 1. The power to transcend paradigms.
 
+
+#### Terms
+
+stocks, flows, leverage points, buffers, delays, structures, feedback loops, information flow, goals, paradigms
 
 
 #### References
