@@ -9,6 +9,8 @@ Shorrock](https://humanisticsystems.com/2019/11/25/four-kinds-of-thinking-2-syst
 
 ## Schools
 
+I call these different *schools* of systems thinking, but it's just my own categorization.
+
 ### Signals and systems (EE)
 
 If you say *systems* to an electrical engineering major, they will likely think
@@ -53,7 +55,11 @@ root-locus plot, Bode plot, Nyquist stability criterion, gain margin, phase marg
 
 ### Cybernetics
 
-Norbert Wiener
+The mathematician Norbert Wiener coined the term *cybernetics* in the 1940s and it has since become something of a buzzword.
+
+* Norbert Wiener
+* W. Ross Ashby
+* Stafford Beer (management cybernetics)
 
 #### References
 
@@ -61,50 +67,86 @@ Norbert Wiener
 * [Introduction to Cybernetics](http://pespmc1.vub.ac.be/ASHBBOOK.html) by W. Ross Ashby
 
 
-### Stocks and flows 
+### Stocks and flows / system dynamics
 
-Donella Meadows
+* Donella Meadows
+* Jay Wright Forrester
 
 
 #### Places to intervene in a systems
 
 In increasing order of effectiveness:
 
-12. Constants, parameters, numbers (such as subsidies, taxes, standards).
-11. The sizes of buffers and other stabilizing stocks, relative to their flows.
-10. The structure of material stocks and flows (such as transport networks, population age structures).
-9. The lengths of delays, relative to the rate of system change.
-8. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
-7. The gain around driving positive feedback loops.
-6. The structure of information flows (who does and does not have access to information).
-5. The rules of the system (such as incentives, punishments, constraints).
-4. The power to add, change, evolve, or self-organize system structure.
-3. The goals of the system.
-2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
+1. Constants, parameters, numbers (such as subsidies, taxes, standards).
+1. The sizes of buffers and other stabilizing stocks, relative to their flows.
+1. The structure of material stocks and flows (such as transport networks, population age structures).
+1. The lengths of delays, relative to the rate of system change.
+1. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+1. The gain around driving positive feedback loops.
+1. The structure of information flows (who does and does not have access to information).
+1. The rules of the system (such as incentives, punishments, constraints).
+1. The power to add, change, evolve, or self-organize system structure.
+1. The goals of the system.
+1. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
 1. The power to transcend paradigms.
 
 
 #### Terms
 
-stocks, flows, leverage points, buffers, delays, structures, feedback loops, information flow, goals, paradigms
+stocks, flows, feedback loops, delays, buffers, dynamic equilibrium, archetypes, resilience, rules, goals, paradigms,
+information flow, system traps
 
 
 #### References
 
 * [Leverage Points: Places to Intervene in a System](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) by Donella Meadows
-* [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella Meadows
+* [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella Meadows ([my notes](https://github.com/lorin/booknotes/blob/master/Thinking-In-Systems.md))
 
 ### State-based
 
-Weinberg
+* Gerald M. Weinberg
+
+#### Terms
+
+law, system, functional notation, observer, observations, interpretation, state, set, categorization, properties, black-box, white box, structure, behavior, boundary, port, membrane, symmetry, composition, transitivity, diachronic, synchronicm dimensional reduction, open system, closed system, connections, partitions, state space, stability, identity, regulation, adaptation, black box, white box
+
+#### References
+
+* [Introduction to General Systems Thinking](https://www.amazon.com/Introduction-General-Systems-Thinking-Anniversary/dp/0932633498) by Gerald M. Weinberg ([my notes](https://github.com/lorin/booknotes/blob/master/Introduction-To-General-Systems-Thinking.md))
+
 
 ### Systemantics
 
-Gall
+*Systemantics* is John Gall's term for the pathological behaviors that systems invariably exhibit. 
 
-### System dynamics
+* John Gall
 
-Forrester
+#### Terms
+
+systems, complex, exceptions, failures, bugs, problems, feedback, bypass, exploit, reality, malfunction, delusion, fallacy, anergy, expand, unexpected, behaves, law, goals, specialization, competition, selection, grow, evolve, anergy
+
+
+#### References
+
+[The Systems Bible](https://www.amazon.com/Systems-Bible-Beginners-Guide-Large/dp/0961825170) by John Gall ([my notes](https://github.com/lorin/booknotes/blob/master/Systemantics.md))
+
+
+### Management
+
+The following people applied systems thinking to management issues:
+
+* Russell L. Ackoff
+* Stafford Beer
+* W. Edward Deming
+* Peter M. Senge
+
+
+#### References
+
+* [Out of the crisis](https://www.amazon.com/Out-Crisis-Press-Edwards-Deming/dp/0262541157) by W. Edward Deming ([my notes](https://github.com/lorin/booknotes/blob/master/Out-Of-The-Crisis.md))
+* [The fifth discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254) by Peter M. Senge 
+* [The future of operational research is past](https://www.jstor.org/stable/25060027?seq=1) by Russell L. Ackoff
+
 
 ## People
 
