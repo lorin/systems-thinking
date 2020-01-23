@@ -60,11 +60,13 @@ The mathematician Norbert Wiener coined the term *cybernetics* in the 1940s and 
 * Norbert Wiener
 * W. Ross Ashby
 * Stafford Beer (management cybernetics)
+* Gordon Pask
 
 #### References
 
 * [Cybernetics: Or Control and Communication in the Animal and the Machine](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine) by Norbert Wiener
 * [Introduction to Cybernetics](http://pespmc1.vub.ac.be/ASHBBOOK.html) by W. Ross Ashby
+* [An Approach to Cybernetics](https://www.pangaro.com/pask/pask%20approach%20to%20cybernetics.pdf) by Gordon Pask
 
 
 ### Stocks and flows / system dynamics
