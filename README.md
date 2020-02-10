@@ -156,12 +156,16 @@ The following people applied systems thinking to management issues:
 * W. Ross Ashby
 * Ludwig von Bertalanffy
 * Stafford Beer
+* [C. West Churchman](https://en.wikipedia.org/wiki/C._West_Churchman) ([The Systems Approach](https://www.amazon.com/Systems-Approach-C-West-Churchman/dp/0440384079))
 * W. Edward Deming
+* [Frederick Edmund Emery](https://en.wikipedia.org/wiki/Fred_Emery) ([Systems Thinking](https://www.goodreads.com/book/show/4528628-systems-thinking))
+
 * Jay Wright Forrester
 * John Gall
-* Peter Senge
-* Norbert Wiener
-* Donella Meadows
+* Peter Senge (The Fifth Discipline)
+* Herbert A. Simon
+* Norbert Wiener (Cybernetics)
+* Donella Meadows (Thinking In Systems)
 * Virginia Satir
 * Gerald M. Weinberg
 
