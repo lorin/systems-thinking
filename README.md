@@ -70,6 +70,10 @@ The mathematician Norbert Wiener coined the term *cybernetics* in the 1940s and 
 * [An Approach to Cybernetics](https://www.pangaro.com/pask/pask%20approach%20to%20cybernetics.pdf) by Gordon Pask
 * [The Second Cybernetics: Deviation-Amplifying Mutual Causal Processes](http://pespmc1.vub.ac.be/books/Maruyama-SecondCybernetics.pdf) by Magoroh Maruyama
 
+#### Other resources
+
+* [Principia Cybernetica Web](http://pespmc1.vub.ac.be/)
+
 
 ### Stocks and flows / system dynamics
 
