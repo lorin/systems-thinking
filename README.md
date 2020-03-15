@@ -60,6 +60,7 @@ The mathematician Norbert Wiener coined the term *cybernetics* in the 1940s and 
 * Norbert Wiener
 * W. Ross Ashby
 * Stafford Beer (management cybernetics)
+* Magoroh Maruyama
 * Gordon Pask
 
 #### References
@@ -67,6 +68,7 @@ The mathematician Norbert Wiener coined the term *cybernetics* in the 1940s and 
 * [Cybernetics: Or Control and Communication in the Animal and the Machine](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine) by Norbert Wiener
 * [Introduction to Cybernetics](http://pespmc1.vub.ac.be/ASHBBOOK.html) by W. Ross Ashby
 * [An Approach to Cybernetics](https://www.pangaro.com/pask/pask%20approach%20to%20cybernetics.pdf) by Gordon Pask
+* [The Second Cybernetics: Deviation-Amplifying Mutual Causal Processes](http://pespmc1.vub.ac.be/books/Maruyama-SecondCybernetics.pdf) by Magoroh Maruyama
 
 
 ### Stocks and flows / system dynamics
