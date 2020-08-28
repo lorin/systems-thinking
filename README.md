@@ -178,6 +178,8 @@ The following people applied systems thinking to management issues:
 
 ### Russell L. Ackoff
 
+* [Talks by Ackoff](https://www.youtube.com/playlist?list=PLCyumnVUi2uaK2Q-kZl8b9PMVu9ae0FEL)
+
 #### [The Future of Operational Research is Past](https://ackoffcenter.blogs.com/files/the-future-of-operational-research-is-past.pdf)
 The Journal of the Operational Research Society, Vol. 30, No. 2 (Feb., 1979), pp. 93-104
 
@@ -216,11 +218,20 @@ Nature and the world are not organized as science and universities are. There ar
 
 Progress in handling messes, as well as problems, derives at least as mmuch from creative reorganization of the way we pursue knowledge and the knowledge we already have as it does from new discoveries.
 
+#### Scientific Method: Optimizing Applied Research Decisions
+
+Introduces the distinction between three types of models:
+
+* analytic - useful description (e.g., differential equations)
+* analogic - another reality with some similar properties (e.g., database schemas)
+* iconic - graphical depiction of what it models (e.g., a map drawn to scale)
+
+Referenced in "Problem Frames" by Michael Jackson, p13.
 
 ### W. Ross Ashby
 
-#### [An introduction to cybernetics](http://documents.irevues.inist.fr/bitstream/handle/2042/30159/XX_CNE-LIPSOR_000704.pdf?sequence=1**
-
+#### [An introduction to cybernetics](http://documents.irevues.inist.fr/handle/2042/30159)
+    
 This book introduces Ashby's *law of requisite variety*.
 
 ## Other links
